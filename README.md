@@ -2,8 +2,7 @@
 
 # Enumerables with Ruby
 
-> In this project, a morse code is decoded using Ruby.
-
+> In this project, we practice using a module inside a class.
 
 ## Built With
 
