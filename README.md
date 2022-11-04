@@ -2,7 +2,7 @@
 
 # Enumerables with Ruby
 
-> In this project, we practice using a module inside a class.
+> In this project, we practice using modules inside classes.
 
 ## Built With
 
