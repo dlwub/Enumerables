@@ -4,7 +4,7 @@ module MyEnumerable
     eachs { |i| result = false unless yield i }
     result
   end
-  
+
   def any?
     result = false
     eachs { |el| result = true if yield el }
